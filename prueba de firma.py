@@ -1,1 +1,1 @@
-print("commit.gpgsign false but -S on commit")
+print("commit.gpgsign true but -S on commit")
